@@ -104,7 +104,6 @@ p {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -143,4 +142,64 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    margin-bottom:3%;
+}
+
+.logo{
+    margin-top:2%;
+}
+
+.nav-child{
+    margin-top:4.3%;
+    text-decoration: none;
+    color:black;
+}
+
+.jumbo{
+    margin-bottom:2.3%;
+}
+
+.box-one{
+    background-color:teal;
+}
+
+.box-two{
+    background:gold;
+}
+
+.box-three{
+    background:cadetblue;
+}
+
+.box-four{
+    background:coral;
+}
+
+.box-five{
+    background:crimson;
+}
+
+.box-six{
+    background:forestgreen;
+}
+
+.box-seven{
+    background:darkorchid;
+}
+
+.box-eight{
+    background:hotpink;
+}
+
+.box-nine{
+    background:indigo;
+}
+
+.box-ten{
+    background:dodgerblue;
 }
